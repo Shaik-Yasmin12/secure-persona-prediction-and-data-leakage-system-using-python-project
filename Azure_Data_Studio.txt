@@ -1,0 +1,22 @@
+Go to View -> Servers
+
+-A Server Panel will be opened on the Left
+-Beside Server there will be 3 Icons.
+-Select on New Connection Icon/Button
+
+-Connection Panel will be Opened on the Right
+-Add To the Fields
+Connection Type: Microsoft SQL Server
+Server:SG2NWPLS19SQL-v09.mssql.shr.prod.sin2.secureserver.net
+Authentication Type:SQL Login
+User name:AGivify
+Password:Gnem84~59
+check-Remember Password
+Database:AGivify
+
+Click on Connect
+
+-After Successfull Connection.
+-Your Database will be Added Under Servers List.
+-You can Expand the Tables and Columns under your Database
+-You can view/Edit or create New Queries by Right Clicking on the Tables/Database
